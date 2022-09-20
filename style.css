@@ -1,0 +1,174 @@
+.sidenav {
+    position: fixed;
+    word-spacing: 25px;
+    font-size: 20px;
+    padding: 6px 6px 6px 32px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 20rem;
+    z-index: 999;
+    background-color: #9d4edd;
+    text-align: center;
+    box-shadow: 0 7px 20px 0 rgb(0 0 0 / 20%), 0 4px 10px 0 rgb(0 0 0 / 20%);
+}
+
+
+
+.background {
+    background-color: #c77dff;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.sidenav a {
+    text-decoration: none;
+}
+
+.sidenav a:hover {
+    color: #c77dff;
+    text-decoration: none;
+}
+
+
+.introcontainer {
+    padding-top: 125px;
+    font-family: arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.namecontainer {
+    color: white;
+    font-family: ARIAL, sans-serif;
+    font-size: 80px;
+    padding-bottom: ;
+
+}
+
+.titlecontainer {
+    color: white;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    padding-bottom: 10px;
+}
+
+.textcontainer {
+    font-size: larger;
+    color: white;
+    font-weight: bold;
+    margin: 0 auto;
+    width: 1140px;
+
+}
+
+.projectcontainer {
+    padding-top: 175px;
+    font-family: arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.projecttitle {
+    color: white;
+    font-weight: bold;
+    font-family: arial, sans-serif;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.projects {
+    color: white;
+    font-weight: bold;
+    padding-bottom: ;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.henzie {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 20px;
+}
+
+.marchesa {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 20px;
+}
+
+.gyruda {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 20px;
+}
+
+.abouttitle {
+    color: white;
+    font-weight: bold;
+    font-family: arial, sans-serif;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.about {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    width: 50vh;
+    height: 100%;
+    border: 5px solid rgb(147, 57, 150);
+    padding: 50px;
+    margin: 10px;
+    padding-top: 50px;
+    font-family: arial, sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    word-wrap: break-word;
+}
+
+
+
+
+.resumetitle {
+    color: white;
+    font-weight: bold;
+    font-family: arial, sans-serif;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.resume {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-bottom: 20px;
+}
